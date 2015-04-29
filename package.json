@@ -1,0 +1,28 @@
+{
+  "name": "simple-test-and-modular-patterns",
+  "version": "0.1.0",
+  "description": "Add a Gruntfile and a package.json to your greet assignment",
+  "main": "greet.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^2.3.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.4"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrbgit/simple-test-and-modular-patterns.git"
+  },
+  "author": "Michael Bowen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrbgit/simple-test-and-modular-patterns/issues"
+  },
+  "homepage": "https://github.com/mrbgit/simple-test-and-modular-patterns#readme"
+}
